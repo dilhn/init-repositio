@@ -1,3 +1,3 @@
-Hello Dilhan from Github
+Hello Dilhan from Github ~ greetings
 
 ISTQB
